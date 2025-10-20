@@ -384,3 +384,12 @@
 .si-zotero:before {
   content: "\e955";
 }
+
+
+/* -----------------------------
+   About page social icons size
+------------------------------ */
+.social .contact-icons i {
+  font-size: 2rem; /* adjust smaller or larger */
+  margin-right: 0.5rem; /* spacing between icons */
+}
