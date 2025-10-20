@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year PhD student at the University of Illinois Urbana-Champaign, where I am advised by Dr. Arindam Banerjee. I am broadly interested in generative AI for scientific computing, specifically for applications in climate science and bioinformatics. My recent work has focused on generative spatiotemporal modeling of inverse problems.
+I am a second-year PhD student at the University of Illinois Urbana-Champaign, where I am advised by Dr. Arindam Banerjee. I am broadly interested in generative AI for scientific computing, specifically for applications in weather forecasting and bioinformatics. My recent work has focused on generative spatiotemporal modeling of inverse problems.
 
 Before starting at UIUC, I spent a year as a Postbaccalaureate Fellow in the lab of Dr. Peng Jiang at the National Cancer Institute, NIH. My research focused on immune cell type classification in histopathology images using Spatial Transcriptomics data. I completed my undergraduate studies at the University of Maryland, College Park, where I was fortunate to be supported by the Banneker/Key Scholarship for the duration of my degree. 
